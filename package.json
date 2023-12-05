@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^12.1.10",
     "@vonage/video-effects": "^0.1.0",
     "@vonage/video-express": "^1.2.0",
-    "axios": "^0.21.1",
+    "axios": "^1.0.0",
     "body-parser": "^1.19.0",
     "concurrently": "^6.2.0",
     "cors": "^2.8.5",
